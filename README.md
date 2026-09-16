@@ -1,8 +1,5 @@
 # Number-Guessing-Game
 A simple console-based number guessing game developed using C++.
-# Number Guessing Game
-
-A simple console-based number guessing game developed using C++.
 
 ## How It Works
 
