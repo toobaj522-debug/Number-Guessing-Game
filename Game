@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+main()
+{
+	int guess;
+	
+	
+	do
+	{
+		cout<<"Enter number for guess: "<<endl;
+	    cin>>guess;
+	
+	}while(guess!=58);
+	
+	cout<<"Congratulations.You won."<<endl;
+	
+	return 0;
+}
